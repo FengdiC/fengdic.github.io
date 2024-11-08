@@ -21,6 +21,7 @@ repository               : "fengdic.github.io"
 author:
   # Biographic information
   location         : "Earth"
+  avatar           : "profile.jpg"
   uri              : # URL
   email            : "fengdi at ualberta dot ca" 
   googlescholar    : "https://scholar.google.ca/citations?user=uAdj91QAAAAJ&hl=en"
