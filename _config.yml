@@ -20,7 +20,7 @@ repository               : "fengdic.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Fengdi Che"
   bio              : "I am a fourth-year PhD student at the University of Alberta specializing in reinforcement learning. My primary research interest is effectively using offline data within reinforcement learning algorithms. I explore how algorithms can leverage pre-collected datasets and investigate how data should be collected."
   location         : "Earth"
