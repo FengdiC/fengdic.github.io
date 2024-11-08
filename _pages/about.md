@@ -1,13 +1,16 @@
 ---
 permalink: /
+avatar: "profile.jpg"
+---
+
+---
+permalink: /
 title: About Me
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-avatar: "profile.jpg"
 
 I am a fourth-year PhD student at the University of Alberta specializing in reinforcement learning. My primary research interest is effectively using data. I explore how algorithms can leverage datasets experiencing distribution shifts and investigate how data should be collected. I am also interested in understanding more about transformers, including their representation power and in-context learning abilities.
 
