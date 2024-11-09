@@ -13,7 +13,9 @@ News
 ======
 2025.02: Our tutorial "Advancing Offline Reinforcement Learning: Essential Theories and Techniques for Algorithm Developers" is accepted at AAAI 2025, Philadelphia, PA, hosted by Fengdi Che, Chenjun Xiao, Ming Yin, and Csaba Szepesvári!
 
-2024.12: I will attend NeurIPS 2024 in Vancouver. Feel free to reach out to chat in person.
+2024.12: I will attend NeurIPS 2024 in Vancouver. Wish to chat with you if you are interested in my research topics!
+
+2024.07: Our paper "Target Networks and Over-parameterization Stabilize Off-policy Bootstrapping with Function Approximation" is presented at ICML 24 as a spotlight paper with only 3.5% acceptance rate.
 
 Publications
 ======
