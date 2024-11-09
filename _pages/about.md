@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at the University of Alberta, advised by Prof. A. Rupam Mahmood. My primary research interest focuses on effectively using data, especially for reinforcement learning. I design and analyze algorithms that leverage datasets experiencing distribution shifts and investigate how data should be collected. I am also interested in understanding more about transformers, including their representation power and in-context learning abilities. My research philosophy centers on understanding empirical problems from a theoretical perspective and guiding algorithm design with theoretical insights. I run experiments, and I do proofs.
+I am a fourth-year PhD student at the University of Alberta, advised by Prof. A. Rupam Mahmood. 
+
+My primary research interest focuses on effectively using data, especially for reinforcement learning. I design and analyze algorithms that leverage datasets experiencing distribution shifts and investigate how data should be collected. I am also interested in understanding more about transformers, including their representation power and in-context learning abilities. 
+
+My research philosophy centers on understanding empirical problems from a theoretical perspective and guiding algorithm design with theoretical insights. I run experiments, and I do proofs.
 
 News
 ======
