@@ -29,4 +29,98 @@
 <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
+<!-- Custom styles for larger profile links -->
+<style>
+  .author__urls a.author__url-large {
+    font-size: 1.1em !important;
+    font-weight: 500;
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+  
+  .author__urls a.author__url-large i {
+    font-size: 1.2em;
+  }
+  
+  /* Publication thumbnails */
+  .archive__item {
+    position: relative;
+    padding-left: 0;
+    clear: both;
+  }
+  
+  .archive__item-thumbnail {
+    float: left;
+    margin-left: -10px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .archive__item-thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .archive__item-thumbnail {
+      width: 100px;
+      height: 100px;
+      margin-left: 0;
+      margin-right: 15px;
+    }
+  }
+  
+  /* Make page content wider */
+  @media screen and (min-width: 64em) {
+    .page {
+      width: calc(100% - 280px) !important;
+      padding-right: 20px !important;
+    }
+    
+    .page__inner-wrap {
+      max-width: 100% !important;
+      width: 100% !important;
+    }
+    
+    .sidebar {
+      width: 250px !important;
+    }
+  }
+  
+  @media screen and (min-width: 80em) {
+    .page {
+      width: calc(100% - 300px) !important;
+      padding-right: 30px !important;
+    }
+    
+    .sidebar {
+      max-width: 280px !important;
+    }
+  }
+  
+  /* Make main content area wider */
+  .page__content {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+  
+  .page__content p,
+  .page__content div {
+    max-width: 100%;
+  }
+  
+  /* Ensure archive content is full width */
+  .archive {
+    width: 100%;
+    max-width: 100%;
+  }
+</style>
+
 <!-- end custom head snippets -->

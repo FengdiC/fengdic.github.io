@@ -26,6 +26,18 @@
       </div>
     {% endif %}
 
+    {% if post.collection == 'publications' and post.thumbnail %}
+      <div class="archive__item-thumbnail">
+        <img src=
+          {% if post.thumbnail contains "://" %}
+            "{{ post.thumbnail }}"
+          {% else %}
+            "{{ post.thumbnail | prepend: "/images/publications/" | prepend: base_path }}"
+          {% endif %}
+          alt="{{ title }}">
+      </div>
+    {% endif %}
+
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
