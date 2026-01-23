@@ -36,7 +36,7 @@ Supervisor: Dr. Doina Precup
 
 ## Internships
 
-**Netflix**, Los Gatos, CA, US | *October 2025 - Present*  
+**Netflix**, Los Gatos, CA, US | *October 2025 - December 2025*  
 Developing LLM-based recommendation system to improve content discovery.
 
 **Shanghai AI Lab**, Shanghai, China | *March 2025 - August 2025*  
