@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Fengdi Che
+<a href="/files/Fengdi_Che_CV.pdf" class="btn btn--primary">Download Resume</a>
+
 **PhD Candidate | University of Alberta**  
 (514) 578-9225 | fengdi at ualberta dot ca  
 Department of Computing Science, University of Alberta, Edmonton, AB, Canada
@@ -43,6 +45,18 @@ Developing LLM-based recommendation system to improve content discovery.
 - Generated data using proprietary LLM APIs
 - Designed rule-based rewards and post-trained a verifiable code LLM agent
 - Built training infrastructure on top of VeRL and investigated generalization ability of LLM under continuous latent CoT
+
+---
+
+## Publications
+
+- VeriCode Team (Equal Contribution First Author, Project Lead). Re: Form--Reducing Human Priors in Scalable Formal Software Verification with RL in LLMs: A Preliminary Study on Dafny. Under Review.
+
+- Lingfei Zeng, Fengdi Che (Equal Contribution), Xuhan Huang, Fei Ye, Xu Xu, Binhang Yuan, Jie Fu. VeriEquivBench: An Equivalence Score for Ground-Truth-Free Evaluation of Formally Verifiable Code. ICLR 2026 (Acceptance Rate 28%).
+
+- Fengdi Che, Chenjun Xiao, Jincheng Mei, Bo Dai, Ramki Gummadi, Oscar A Ramirez, Christopher K Harris, A. Rupam Mahmood, Dale Schuurmans. Target Networks and Over-parameterization Stabilize Off-policy Bootstrapping with Function Approximation. ICML 2024 (spotlight, Acceptance Rate 3.5%).
+
+- Fengdi Che, Gautham Vasan, Rupam Mahmood. Correcting Discount-Factor Mismatch in On-Policy Policy Gradient Methods. ICML 2023 (Acceptance Rate 27.9%).
 
 ---
 
