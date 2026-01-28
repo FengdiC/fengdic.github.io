@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD candidate at the University of Alberta, supervised by Dr. A. Rupam Mahmood and Dr. Dale Schuurmans. 
+I am a final-year PhD candidate at the University of Alberta, supervised by Dr. A. Rupam Mahmood and Dr. Dale Schuurmans. 
 
 I'm currently developing verifiable coding agents that can formally guarantee alignment between agent behaviour and user intentions. This trend of work targets a fundamental challenge in AI safety: ensuring that autonomous systems execute tasks transparently, without unexpected or unverified behaviours.
 
