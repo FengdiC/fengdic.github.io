@@ -27,7 +27,7 @@ Key Publications
 
 <div style="margin-bottom: 50px; max-width: 900px; margin-left: auto; margin-right: auto;">
   <div style="text-align: center; margin-bottom: 15px;">
-    <img src="/images/publications/veri_pathway.pdf" alt="VeriEquivBench" style="width: 500px; max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="/images/publications/veri_pathway.png" alt="VeriEquivBench" style="width: 500px; max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </div>
   <div style="text-align: left; padding: 0 20px; font-size: 1.05em; line-height: 1.6;">
    Lingfei Zeng, <strong>Fengdi Che (Equal Contribution)</strong>, Xuhan Huang, Fei Ye, Xu Xu, Binhang Yuan, Jie Fu. <em>VeriEquivBench: An Equivalence Score for Ground-Truth-Free Evaluation of Formally Verifiable Code.</em> <a href="https://arxiv.org/abs/2510.06296">Paper Link</a>. ICLR 2026 (Acceptance Rate 28%).
